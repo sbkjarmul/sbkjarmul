@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Sebek 👋
 
-<!--
-**sbkjarmul/sbkjarmul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student
 
-Here are some ideas to get you started:
+- :book: I'm currently learning Javascript and UI Design
+- :fire: I like coding and designing
+- 🤔 I want become a Front End / UI Developer
+- :pushpin: I currently working on "Color picker" project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me 💬
+
+[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" />][behance]
+
+</br>
+
+### Languages and tools
+
+[instagram]: https://www.instagram.com/sbkjarmul/
+[linkedin]: https://www.linkedin.com/in/sebastian-jarmu%C5%82-6a29891a2/
+[behance]: https://www.behance.net/sebastianjarmu
