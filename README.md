@@ -19,8 +19,8 @@
 
 <img align="left" alt="html" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" />
 <img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/sass.png" />
 <img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bootstrap.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 
 
