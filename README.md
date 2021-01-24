@@ -7,6 +7,10 @@
 - 🤔 I want become a Front End / UI Developer
 - :pushpin: I currently working on "Color picker" project
 
+### Latest project
+
+:speaker:[Beatmaker][beatmaker]
+
 ### Connect with me 💬
 
 [<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
@@ -28,3 +32,4 @@
 [instagram]: https://www.instagram.com/sbkjarmul/
 [linkedin]: https://www.linkedin.com/in/sebastian-jarmu%C5%82-6a29891a2/
 [behance]: https://www.behance.net/sebastianjarmu
+[beatmaker]: https://sbkjarmul.github.io/Beatmaker/
