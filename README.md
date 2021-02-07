@@ -7,7 +7,7 @@
 - 🤔 I want to become a Front End / UI Developer
 - :pushpin: I'm currently working on my first comercial project - a website for renovation company.
 
-### Latest project
+### Latest projects
 
 :speaker:[Beatmaker][beatmaker] </br>
 :rainbow:[Color Picker][color-picker] </br>
