@@ -10,6 +10,8 @@
 ### Latest project
 
 :speaker:[Beatmaker][beatmaker]
+:rainbow:[Color Picker][color-picker]
+:closed_book:[Book To Read][book-to-read]
 
 ### Connect with me 💬
 
@@ -33,3 +35,5 @@
 [linkedin]: https://www.linkedin.com/in/sebastian-jarmu%C5%82-6a29891a2/
 [behance]: https://www.behance.net/sebastianjarmu
 [beatmaker]: https://sbkjarmul.github.io/Beatmaker/
+[color-picker]: https://sbkjarmul.github.io/color-picker/
+[book-to-read]: https://sbkjarmul.github.io/book-to-read/
