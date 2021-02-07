@@ -9,8 +9,8 @@
 
 ### Latest project
 
-:speaker:[Beatmaker][beatmaker]
-:rainbow:[Color Picker][color-picker]
+:speaker:[Beatmaker][beatmaker] </br>
+:rainbow:[Color Picker][color-picker] </br>
 :closed_book:[Book To Read][book-to-read]
 
 ### Connect with me 💬
