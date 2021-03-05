@@ -4,7 +4,7 @@
 
 - :book: I'm currently learning Javascript and UI Design
 - :fire: I like coding and designing
-- 🤔 I want to become a Front End / UI Developer
+- 🤔 I want to become a Front End Developer
 - :pushpin: I'm currently working on my first comercial project - a website for renovation company.
 
 ### Latest projects
