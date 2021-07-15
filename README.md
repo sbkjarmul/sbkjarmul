@@ -12,11 +12,13 @@
 :speaker:[Beatmaker][beatmaker] </br>
 :rainbow:[Color Picker][color-picker] </br>
 :closed_book:[Book To Read][book-to-read] </br>
-:musical_note:[Travis Scott Business Card][travis-scott]
-
-### In build
-
 :triangular_ruler:[Renovation Website][renovation-website] </br>
+:musical_note:[Travis Scott Business Card][travis-scott] </br>
+
+<!-- ### In build
+
+:triangular_ruler:[Renovation Website][renovation-website] </br> -->
+
 
 ### Connect with me 💬
 
