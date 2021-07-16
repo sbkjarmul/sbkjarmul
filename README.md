@@ -12,6 +12,7 @@
 :speaker:[Beatmaker][beatmaker] </br>
 :rainbow:[Color Picker][color-picker] </br>
 :closed_book:[Book To Read][book-to-read] </br>
+:pencil2:[Text Editor][text-editor] </br>
 :triangular_ruler:[Renovation Website][renovation-website] </br>
 :musical_note:[Travis Scott Business Card][travis-scott] </br>
 
@@ -46,5 +47,6 @@
 [beatmaker]: https://sbkjarmul.github.io/Beatmaker/
 [color-picker]: https://sbkjarmul.github.io/color-picker/
 [book-to-read]: https://sbkjarmul.github.io/book-to-read/
+[text-editor]: https://sbkjarmul.github.io/text-editor/
 [renovation-website]: https://sbkjarmul.github.io/renovation-website/
 [travis-scott]: https://travis-business-card.herokuapp.com
