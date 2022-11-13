@@ -15,6 +15,7 @@
 :pencil2:[Text Editor][text-editor] </br>
 :triangular_ruler:[Renovation Website][renovation-website] </br>
 :musical_note:[Travis Scott Business Card][travis-scott] </br>
+:dress:[Online store with Prestashop][lagom] </br>
 
 <!-- ### In build
 
@@ -50,3 +51,4 @@
 [text-editor]: https://sbkjarmul.github.io/text-editor/
 [renovation-website]: https://sbkjarmul.github.io/renovation-website/
 [travis-scott]: https://travis-business-card.herokuapp.com
+[lagom]: https://lagomwarsaw.pl/
