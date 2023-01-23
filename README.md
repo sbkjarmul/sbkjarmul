@@ -1,9 +1,9 @@
 ### Hi there, I'm Sebek 👋
 
-## I'm a frontend developer
+## I'm a frontend developer. Want to become Blockchain developer and work in Web 3.0 space.
 
-- :book: I'm learning Javascript and UI Design
-- :fire: I like coding and designing
+- :book: I'm learning Javascript and Blockchain
+- :fire: I like coding, designing and trading.
 
 ### Latest projects
 
