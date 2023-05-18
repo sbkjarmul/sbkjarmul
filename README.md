@@ -14,6 +14,7 @@
 :triangular_ruler:[Renovation Website][renovation-website] </br>
 :musical_note:[Travis Scott Business Card][travis-scott] </br>
 :dress:[Online store with Prestashop][lagom] </br>
+:pizza:PizzaBlock dApp - Soon!
 
 <!-- ### In build
 
