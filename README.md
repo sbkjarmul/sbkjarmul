@@ -1,6 +1,6 @@
 ### Hi there, I'm Sebek 👋
 
-## I'm a frontend developer. Want to become Blockchain developer and work in Web 3.0 space.
+## I'm a mid frontend developer. 
 
 - :book: I'm learning Javascript and Blockchain
 - :fire: I like coding, designing and trading.
@@ -15,10 +15,6 @@
 :musical_note:[Travis Scott Business Card][travis-scott] </br>
 :dress:[Online store with Prestashop][lagom] </br>
 :pizza:PizzaBlock dApp - Soon!
-
-<!-- ### In build
-
-:triangular_ruler:[Renovation Website][renovation-website] </br> -->
 
 
 ### Connect with me 💬
