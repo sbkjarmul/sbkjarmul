@@ -1,6 +1,6 @@
 ### Hi there, I'm Sebek 👋
 
-## I'm a mid frontend developer. 
+## I'm a frontend developer. 
 
 - :book: I'm learning Javascript and Blockchain
 - :fire: I like coding, designing and trading.
