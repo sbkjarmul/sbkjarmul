@@ -14,8 +14,6 @@
 :triangular_ruler:[Renovation Website][renovation-website] </br>
 :musical_note:[Travis Scott Business Card][travis-scott] </br>
 :information_desk_person:[Interno][interno] </br>
-:pizza:PizzaBlock dApp - Soon!
-
 
 ### Connect with me 💬
 
