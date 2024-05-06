@@ -2,8 +2,8 @@
 
 ## I'm a frontend developer. 
 
-- :book: I'm learning Javascript and Blockchain
-- :fire: I like coding, designing and trading.
+- :book: I'm learning Javascript
+- :fire: I like coding, designing
 
 ### Latest projects
 
@@ -15,12 +15,6 @@
 :musical_note:[Travis Scott Business Card][travis-scott] </br>
 :information_desk_person:[Interno][interno] </br>
 :scroll:[Slist][slist] </br>
-
-### Connect with me 💬
-
-[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/behance.svg" />][behance]
 
 </br>
 
