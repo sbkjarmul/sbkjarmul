@@ -1,9 +1,10 @@
 ### Hi there, I'm Sebek 👋
 
-## I'm a frontend developer. 
+## I'm a frontend developer and graphic designer. 
 
-- :book: I'm learning Javascript
-- :fire: I like coding, designing
+ :fire: I own creative studio 
+[ENTEI]: https://www.instagram.com/entei.design/
+[ENTEI]: https://www.entei.design/
 
 ### Latest projects
 
