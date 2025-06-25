@@ -2,9 +2,10 @@
 
 ## I'm a frontend developer and graphic designer. 
 
- :fire: I own creative studio 
-[ENTEI]: https://www.instagram.com/entei.design/
-[ENTEI]: https://www.entei.design/
+ :fire: I own creative studio ENTEI
+ 
+ https://www.instagram.com/entei.design/
+ https://www.entei.design/
 
 ### Latest projects
 
