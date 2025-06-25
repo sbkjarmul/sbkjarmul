@@ -54,3 +54,4 @@
 [interno]: https://bucolic-babka-b8e4a6.netlify.app/
 [slist]: https://playful-torrone-1beda7.netlify.app/
 [art-mat]: https://art-mat.com.pl/
+[entei]: https://entei.design/
