@@ -2,9 +2,9 @@
 
 ## I'm a frontend developer and graphic designer. 
 
- :fire: I own creative studio ENTEI
+ :fire: I own creative studio [ENTEI][entei] </br>
  
-:fire:[ENTEI][entei] </br>
+
 
 ### Latest projects
 
