@@ -4,7 +4,7 @@
 
  :fire: I own creative studio ENTEI
  
- https://www.entei.design/
+:fire:[ENTEI][entei] </br>
 
 ### Latest projects
 
@@ -17,6 +17,7 @@
 :information_desk_person:[Interno][interno] </br>
 :scroll:[Slist][slist] </br>
 :car:[Art-Mat][art-mat] </br>
+:fire:[ENTEI][entei] </br>
 
 </br>
 
