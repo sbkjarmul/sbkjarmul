@@ -4,7 +4,6 @@
 
  :fire: I own creative studio ENTEI
  
- https://www.instagram.com/entei.design/
  https://www.entei.design/
 
 ### Latest projects
