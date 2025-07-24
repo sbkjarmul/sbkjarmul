@@ -8,17 +8,9 @@
 
 ### Latest projects
 
-:speaker:[Beatmaker][beatmaker] </br>
-:rainbow:[Color Picker][color-picker] </br>
-:closed_book:[Book To Read][book-to-read] </br>
-:pencil2:[Text Editor][text-editor] </br>
-:triangular_ruler:[Renovation Website][renovation-website] </br>
-:musical_note:[Travis Scott Business Card][travis-scott] </br>
-:information_desk_person:[Interno][interno] </br>
-:scroll:[Slist][slist] </br>
 :car:[Art-Mat][art-mat] </br>
 :fire:[ENTEI][entei] </br>
-:fire:[REM-MET][rem-met] </br>
+:nut_and_bolt:[REM-MET][rem-met] </br>
 
 </br>
 
